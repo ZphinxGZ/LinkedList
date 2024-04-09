@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: antiquewhite;
+}
+
+.linked-list-container {
+    margin-top: 20px;
+}
+
+.linked-list-item {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.btn {
+    margin-right: 10px;
+}
+div{
+    margin-bottom: 10px;
+}
+*{
+    text-align: center;
+}
